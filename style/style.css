@@ -1,0 +1,28 @@
+::-moz-selection {
+    background-color: #da62ff9f;
+    color: #fff;
+}
+::selection {
+    background-color: #da62ff9f;
+    color: #fff;
+}
+button#first-button{
+    margin:  25px 0 25px 0 ;
+}
+img {
+    width: 80%;
+  height: auto;
+}
+.sign {
+    padding: 7px; 
+    margin: 10px 0 5px 5px;
+   }
+.sign figcaption {
+    margin: 0 auto 5px; 
+   }
+pre{
+    color: #da62ff;
+}
+div.contanier-fluid {
+    padding: 0 5%  5% 5%  ;
+}
